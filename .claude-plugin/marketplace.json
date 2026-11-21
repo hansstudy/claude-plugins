@@ -1,0 +1,12 @@
+{
+  "name": "hansstudy",
+  "owner": { "name": "Hans Study", "url": "https://hans.study" },
+  "plugins": [
+    {
+      "name": "cisco-switch-config",
+      "source": "./plugins/cisco-switch-config",
+      "version": "1.0.0",
+      "description": "Audits Cisco IOS and IOS-XE switch running-configurations for security and reliability defects and generates hardened baseline configurations."
+    }
+  ]
+}
